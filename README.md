@@ -1,3 +1,5 @@
+Obs: O código deste projeto não foi feito por mim, este repositório é um exercício de deploy no Netlify com um projeto pronto da [Cubos Academy](https://cubos.academy/sucesso) de exemplo.
+
 ![](https://i.imgur.com/xG74tOh.png)
 
 # Exercício de classe 🏫
